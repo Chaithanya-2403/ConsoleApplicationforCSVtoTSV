@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{475DE620-369C-4934-B3C8-4A175901FE29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_Test", "Unit_Test\Unit_Test.csproj", "{BD793A08-A97A-4E00-AF73-A90EFF3255F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit_Test", "Unit_Test\Unit_Test.csproj", "{BD793A08-A97A-4E00-AF73-A90EFF3255F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
