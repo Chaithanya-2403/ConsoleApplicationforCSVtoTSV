@@ -11,7 +11,7 @@ OUTPUT_DIR = bin
 all: build run
 
 # Build target
-build:
+#build:
     dotnet build  -o $(OUTPUT_DIR)
 
 # Run target
